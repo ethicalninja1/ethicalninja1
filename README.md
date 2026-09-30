@@ -1,6 +1,6 @@
 # 👋 Hi, I'm INDAR
 
-### 🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 🐧 Linux Learner
+### 🔐 Cybersecurity Enthusiast | 🐍 Building Perfect tools | 🐧 Linux Learner
 
 I build practical tools and projects around **cybersecurity, automation, OSINT, and Python development**.
 
