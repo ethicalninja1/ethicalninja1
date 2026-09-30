@@ -14,22 +14,7 @@
 
 ---
 
-## 🧠 WHO AM I?
 
-```text
-┌──────────────────────────────────────────────┐
-│                ETHICAL NINJA                 │
-├──────────────────────────────────────────────┤
-│ 🔐 Cybersecurity Expert                      │
-│ 🥷 Ethical Hacker                            │
-│ 🔎 OSINT Enthusiast                          │
-│ 🌐 Web Security Researcher                   │
-│ 🛡️ Security Research                         │
-│ 🐧 Linux / Kali Linux                        │
-│ ⚡ Security Automation                        │
-│ 📚 Continuous Learner                        │
-└──────────────────────────────────────────────┘
-```
 
 I’m passionate about **cybersecurity, ethical hacking, security research and discovering how systems can be protected against real-world threats.**
 
